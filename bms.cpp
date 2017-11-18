@@ -8,3 +8,8 @@
             }
             
 
+                double BatteryManagementSystem::get_voltage()
+            {
+              return 0;
+            }
+ 
