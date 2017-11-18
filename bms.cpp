@@ -1,6 +1,6 @@
 #include "bms.h"
 
-        BatteryManagementSystem::BatteryManagementSystem()
+        BatteryManagementSystem::BatteryManagementSystem();
 	
             double BatteryManagementSystem::get_current()
             {
