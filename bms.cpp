@@ -6,12 +6,12 @@
 	
             double BatteryManagementSystem::get_current()
             {
-              return 0;
+              return 3;
             }
             
 
                 double BatteryManagementSystem::get_voltage()
             {
-              return 0;
+              return 10;
             }
  
