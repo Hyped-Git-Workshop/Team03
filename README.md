@@ -1,6 +1,6 @@
 # Thank you
 You completed the exercises. Please leave feedback in README.md
-
+This was very helpful, thanks a bunch <3 
 # Git Exercise
 
 1. Each person in the pair needs to `git clone` this repo
