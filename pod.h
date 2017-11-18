@@ -12,7 +12,7 @@ class Pod
 {
   public:
     Pod();
-
+    double get_temperature();
     std::string get_name();
     double get_max_speed();
     /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////
